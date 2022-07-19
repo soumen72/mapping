@@ -1,0 +1,9 @@
+com/Mappingexample/demo/repository/PostRepository.class
+com/Mappingexample/demo/entity/Post.class
+com/Mappingexample/demo/repository/CommentRepository.class
+com/Mappingexample/demo/entity/Comment.class
+com/Mappingexample/demo/entity/AuditModel.class
+com/Mappingexample/demo/ResourceNotFoundException.class
+com/Mappingexample/demo/DemoApplication.class
+com/Mappingexample/demo/controllers/PostController.class
+com/Mappingexample/demo/controllers/CommentController.class
